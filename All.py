@@ -164,7 +164,7 @@ edges = [
 k = 2  # Start node
 
 result = network_delay_time(n, edges, k)
-print("Time for all nodes to receive the signal:", result)
+print("Time for all the nodes to receive the signal:", result)
 
 #--------------------------------------------------------------------------------------------------------------
 #--------------------------------------------------------------------------------------------------------------
